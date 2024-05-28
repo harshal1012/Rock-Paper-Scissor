@@ -12,7 +12,7 @@ This project is a simple implementation of the classic Rock Paper Scissors game 
 - Responsive design for mobile and desktop
 
 ## Demo
-[Live Demo](harshal1012.github.io/Rock-Paper-Scissor)
+[Live Demo](https://harshal1012.github.io/Rock-Paper-Scissor/)
 
 ## Installation
 1. Clone the repository:
